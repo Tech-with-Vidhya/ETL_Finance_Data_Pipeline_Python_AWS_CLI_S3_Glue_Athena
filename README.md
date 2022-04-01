@@ -5,7 +5,7 @@ This project covers the implementation of building a ETL data pipeline using Pyt
 Tools & Technologies: 
 1. Python
 2. Boto3 SDK
-3. AWS CLI
+3. AWS Command Line Interface (CLI)
 4. AWS Virtual Private Cloud (VPC)
 5. AWS VPC Endpoint
 6. AWS S3
