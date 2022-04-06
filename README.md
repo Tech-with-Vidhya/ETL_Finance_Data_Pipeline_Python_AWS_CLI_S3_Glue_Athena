@@ -12,3 +12,7 @@ Tools & Technologies:
 7. AWS Glue
 8. AWS Glue Crawler
 9. AWS Athena
+
+Project Architecture:
+
+![](architecture/project_architecture.jpg)
